@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="person" type="PLAIN_TEXT" />
       <mapping ext="names" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
