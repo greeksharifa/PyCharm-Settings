@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Python Compatibility Inspection Advertiser" displayType="NONE" shouldLog="false" />
     <notification groupId="Python Scientific View Advertiser" displayType="NONE" shouldLog="false" />
     <notification groupId="Vcs Important Messages" displayType="NONE" />
   </component>
