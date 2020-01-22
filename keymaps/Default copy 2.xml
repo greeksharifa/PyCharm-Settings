@@ -1,0 +1,14 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="ChooseRunConfiguration" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.Submit" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="PyExecuteCellAction" />
+  <action id="Run" />
+  <action id="ViewSource" />
+</keymap>

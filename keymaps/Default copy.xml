@@ -1,0 +1,17 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="PyExecuteCellAction" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+</keymap>
