@@ -1,4 +1,7 @@
 <keymap version="1" name="Sharifa_Windows10" parent="$default">
+  <action id="ActivateFileTransferToolWindow">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
