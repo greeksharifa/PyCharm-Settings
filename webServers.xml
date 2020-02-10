@@ -1,16 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3e1a4e82-4efc-44bf-9b2f-6cd9d21753da" name="Copy of project-level server 'visualD'" url="http://147.46.240.136">
-        <fileTransfer host="147.46.240.136" port="1027" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="1027" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="7d4e7b99-08df-4c06-87ae-3c9f9f591064" name="lxmert" url="http://147.46.242.124">
-        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang/lxmert" accessType="SFTP">
+      <webServer id="63d65d44-4bc6-4c9d-a92c-18ac000c557b" name="ywjang_lxmert" url="http://147.46.242.124">
+        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
