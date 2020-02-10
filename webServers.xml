@@ -9,6 +9,14 @@
           <option name="port" value="1027" />
         </fileTransfer>
       </webServer>
+      <webServer id="b9469158-e3b8-4e87-8c06-b67dab20922d" name="lxmert" url="http://147.46.242.124">
+        <fileTransfer host="147.46.242.124" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
