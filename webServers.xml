@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e1a4e82-4efc-44bf-9b2f-6cd9d21753da" name="Copy of project-level server 'visualD'" url="http://147.46.240.136">
+        <fileTransfer host="147.46.240.136" port="1027" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1027" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
