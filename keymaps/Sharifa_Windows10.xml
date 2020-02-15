@@ -42,4 +42,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="ViewSource" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
