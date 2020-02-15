@@ -1,15 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="63d65d44-4bc6-4c9d-a92c-18ac000c557b" name="ywjang_lxmert" url="http://147.46.242.124">
-        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="630fb842-113b-47d4-8e89-da41fd27ead9" name="ywjang@147.46.242.124:22" url="http://147.46.242.124">
+      <webServer id="9b8191bb-0567-4c6a-9abc-e934d3a1e45c" name="ywjang@147.46.242.124:22" url="http:///">
         <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
