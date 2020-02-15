@@ -1,13 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9b8191bb-0567-4c6a-9abc-e934d3a1e45c" name="sharifa-nt-ywjang@147.46.242.124:22" url="http:///">
+      <webServer id="caf7b1d7-23ab-40dc-8edd-bd939757fffb" name="VQA_Commonsense" url="http:///">
         <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="1e4d044b-1f5a-4cbd-be47-d63a9ebf0e61" name="ywjang@147.46.242.124:22" url="http:///">
-        <fileTransfer host="147.46.242.124" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
