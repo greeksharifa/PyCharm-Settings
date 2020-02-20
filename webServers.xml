@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="caf7b1d7-23ab-40dc-8edd-bd939757fffb" name="VQA_Commonsense" url="http:///">
-        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
+        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang/VQA_Commonsense" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
