@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="caf7b1d7-23ab-40dc-8edd-bd939757fffb" name="VQA_Commonsense" url="http:///">
+      <webServer id="39a4927b-f622-4a40-a96b-1875e07e6be3" name="vqac" url="http:///">
         <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
