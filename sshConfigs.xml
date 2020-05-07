@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="147.46.242.124" id="c91efb68-b4c7-4313-8dd8-261fa69e04bc" port="22" customName="vqac" nameFormat="CUSTOM" />
-    </configs>
-  </component>
-</application>
