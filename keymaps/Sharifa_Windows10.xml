@@ -57,4 +57,7 @@
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
 </keymap>
