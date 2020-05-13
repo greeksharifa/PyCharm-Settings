@@ -1,4 +1,4 @@
-<keymap version="1" name="Sharifa_Windows10" parent="$default">
+<keymap version="1" name="Sharifa's Keymap" parent="$default">
   <action id="ActivateFileTransferToolWindow">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -10,6 +10,9 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
@@ -23,6 +26,7 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
@@ -30,6 +34,11 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="Git.Rename.Local.Branch" />
   <action id="JupyterRunCellAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
@@ -44,15 +53,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="PyExecuteCellAction" />
-  <action id="RenameElement">
+  <action id="RenameFile">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
