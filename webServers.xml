@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39a4927b-f622-4a40-a96b-1875e07e6be3" name="vqac" url="http:///">
+        <fileTransfer rootFolder="/home/ywjang/VQA_Commonsense" accessType="SFTP" sshConfigId="c91efb68-b4c7-4313-8dd8-261fa69e04bc" sshConfig="vqac" />
+      </webServer>
+    </option>
+  </component>
+</application>
