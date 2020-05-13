@@ -3,7 +3,7 @@
     <property name="created">2018-03-17T21:50:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2020-05-13T16:32:59</property>
+    <property name="modified">2020-05-13T17:04:59</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -46,6 +46,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="dddddd" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="f4ff65" />
@@ -67,7 +72,7 @@
         <option name="FOREGROUND" value="be7d47" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -57990,7 +57995,6 @@
         <option name="FOREGROUND" value="89c670" />
       </value>
     </option>
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="d28acb" />
