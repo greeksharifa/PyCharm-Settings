@@ -3,7 +3,7 @@
     <property name="created">2018-03-17T21:50:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2020-05-13T16:21:03</property>
+    <property name="modified">2020-05-13T16:33:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -47,6 +47,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="be7d47" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="41e2d9" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
