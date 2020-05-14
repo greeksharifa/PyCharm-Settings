@@ -3,7 +3,7 @@
     <property name="created">2018-03-17T21:50:39</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2020-05-13T19:31:00</property>
+    <property name="modified">2020-05-14T14:04:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -69,7 +69,7 @@
         <option name="FOREGROUND" value="be7d47" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_COLOR" value="d8bde1" />
@@ -57998,6 +57998,7 @@
         <option name="FOREGROUND" value="89c670" />
       </value>
     </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="d28acb" />
