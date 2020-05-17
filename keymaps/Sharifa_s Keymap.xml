@@ -23,6 +23,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Android.OpenStringResourceEditor">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
