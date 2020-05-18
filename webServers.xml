@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="39a4927b-f622-4a40-a96b-1875e07e6be3" name="vqac" url="http:///">
-        <fileTransfer rootFolder="/home/ywjang/VQA_Commonsense" accessType="SFTP" sshConfigId="c91efb68-b4c7-4313-8dd8-261fa69e04bc" sshConfig="vqac" />
+      <webServer id="4e5de65f-2f42-4666-b8b1-612610642570" name="vqac_conda_302 : ywjang@147.46.242.124:22" url="http:///">
+        <fileTransfer rootFolder="/home/ywjang/VQA_Commonsense" accessType="SFTP" host="147.46.242.124" port="22" sshConfigId="a8888a3c-bb0a-4718-a479-bdee55ebe405" sshConfig="ywjang@147.46.242.124:22 password" />
       </webServer>
     </option>
   </component>
