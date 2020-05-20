@@ -1,0 +1,9 @@
+<templateSet group="Jekyll">
+  <template name="hgh" value="{% highlight $LANG$ %}&#10;$END$&#10;{% endhighlight %}" description="Highlight block" toReformat="false" toShortenFQNames="true">
+    <variable name="LANG" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="img" value="![$NAME$]({{ site.url }}/images/$FILENAME$)$END$" description="Insert Image" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
