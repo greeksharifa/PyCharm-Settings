@@ -23,7 +23,6 @@
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
-  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
