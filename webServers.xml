@@ -2,10 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="139ddf33-165d-4f8c-b07a-0664c5329af5" name="Pytorch_DCGAN ywjang@147.46.242.124:22" url="http:///">
-        <fileTransfer rootFolder="/home/ywjang/Pytorch_DCGAN" accessType="SFTP" host="147.46.242.124" port="22" sshConfigId="3d9e705e-49e5-4a09-ae74-bde60d2cdf26" sshConfig="ywjang@147.46.242.124:22 password" />
-      </webServer>
-      <webServer id="139ddf33-165d-4f8c-b07a-0664c5329af5" name="ywjang@147.46.242.124:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="147.46.242.124" port="22" sshConfigId="3d9e705e-49e5-4a09-ae74-bde60d2cdf26" sshConfig="ywjang@147.46.242.124:22 password" />
+        <fileTransfer rootFolder="/home/ywjang/Pytorch_DCGAN" accessType="SFTP" host="147.46.242.124" port="22" sshConfigId="9f12398b-1cbb-4a20-83ca-84f510a04260" sshConfig="ywjang@147.46.242.124:22 password" />
       </webServer>
     </option>
   </component>
