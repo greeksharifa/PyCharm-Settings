@@ -5,7 +5,7 @@
         <fileTransfer accessType="SFTP" sshConfigId="28c45f4f-fbba-440c-ad63-6234cd86edc0" sshConfig="ywjang@147.46.242.124:22 password" />
       </webServer>
       <webServer id="6dda9ccd-4383-4744-b304-a8b0df263fcc" name="ywjang@147.46.242.124:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="147.46.242.124" port="22" sshConfigId="a8d12895-f2c7-4adb-a5f3-97b42961bc0f" sshConfig="ywjang@147.46.242.124:22 password" />
+        <fileTransfer accessType="SFTP" sshConfigId="28c45f4f-fbba-440c-ad63-6234cd86edc0" sshConfig="ywjang@147.46.242.124:22 password" />
       </webServer>
     </option>
   </component>
