@@ -68,6 +68,9 @@
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="Git.Rename.Local.Branch" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="JupyterRunCellAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
@@ -106,6 +109,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
+  <action id="SaveAll" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
