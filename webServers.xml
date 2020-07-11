@@ -1,10 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="39a4927b-f622-4a40-a96b-1875e07e6be3" name="vqac" url="http:///">
-        <fileTransfer host="147.46.242.124" port="22" rootFolder="/home/ywjang" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="d5c8dcbd-dd39-4a0c-845c-8d05398bbc63" name="VQAC ywjang@147.46.242.124:22" url="http:///">
+        <fileTransfer accessType="SFTP" sshConfigId="28c45f4f-fbba-440c-ad63-6234cd86edc0" sshConfig="ywjang@147.46.242.124:22 password" />
+      </webServer>
+      <webServer id="6dda9ccd-4383-4744-b304-a8b0df263fcc" name="ywjang@147.46.242.124:22" url="http:///">
+        <fileTransfer accessType="SFTP" sshConfigId="28c45f4f-fbba-440c-ad63-6234cd86edc0" sshConfig="ywjang@147.46.242.124:22 password" />
       </webServer>
     </option>
   </component>
