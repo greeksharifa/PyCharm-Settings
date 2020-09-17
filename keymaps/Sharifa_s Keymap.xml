@@ -14,6 +14,9 @@
   <action id="ActivateFileTransferToolWindow">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="ActivateJupyterToolWindow">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
@@ -110,6 +113,7 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="SaveAll" />
+  <action id="SelectNextOccurrence" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
