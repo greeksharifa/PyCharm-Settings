@@ -1,10 +1,10 @@
-<scheme name="Sharifa's Darcula Color Scheme" version="142" parent_scheme="Darcula">
+<scheme name="Sharifa's Color Scheme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-09-19T17:55:03</property>
+    <property name="created">2020-09-19T18:10:21</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-09-19T17:56:05</property>
-    <property name="originalScheme">Sharifa's Darcula</property>
+    <property name="modified">2020-09-19T18:11:45</property>
+    <property name="originalScheme">Sharifa's Darcula Color Scheme</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_CLASS_NAME">
