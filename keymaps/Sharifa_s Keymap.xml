@@ -12,7 +12,7 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="ActivateFileTransferToolWindow">
-    <keyboard-shortcut first-keystroke="alt minus" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="ActivateJupyterToolWindow">
     <keyboard-shortcut first-keystroke="alt j" />
