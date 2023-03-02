@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="147.46.242.124" id="28c45f4f-fbba-440c-ad63-6234cd86edc0" port="22" customName="1. ywjang302 - ywjang@147.46.242.124:22" nameFormat="CUSTOM" username="ywjang" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="147.46.242.124" id="28c45f4f-fbba-440c-ad63-6234cd86edc0" port="22" customName="1. ywjang302 - ywjang@147.46.242.124:22" nameFormat="CUSTOM" username="ywjang" useOpenSSHConfig="true">
         <option name="customName" value="1. ywjang302 - ywjang@147.46.242.124:22" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="147.46.215.12" id="1ead2456-2097-486c-bb81-31b23e86a041" port="22" customName="4. shchoi@147.46.215.12" nameFormat="CUSTOM" username="shchoi">
